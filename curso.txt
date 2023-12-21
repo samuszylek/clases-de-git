@@ -6,3 +6,5 @@ este cambio es el uno.
 este sera cambio dos de prueba para entender.
 esto ajusta la cagadas anteriores.
 
+
+Esto es para mejorar el historial.
